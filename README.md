@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently studying Informatics at Brawijaya University
-🌱 I’m currently learning Machine Learning
-📫 How to reach me:  [Gmail](amiraghina03@gmail.com)
+🔭 I’m currently studying Informatics at Brawijaya University <br>
+🌱 I’m currently learning Machine Learning <br>
+📫 How to reach me:  [Gmail](amiraghina03@gmail.com) 
 
 <p align="left">
 <a href="https://github.com/amiragn">
