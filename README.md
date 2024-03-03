@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently studying Informatics at Brawijaya University <br>
-🌱 I’m currently learning Machine Learning <br>
+🔭 I’m a student of Informatics at Brawijaya University <br>
+🌱 I’m currently learning Data Science <br>
 
 <p align="left">
 <a href="https://github.com/amiragn">
